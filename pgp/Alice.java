@@ -14,7 +14,7 @@ import javax.crypto.KeyGenerator;
 
 /**
  *
- * @author emmanuel
+ * @author victor
  */
 public class Alice {
 
