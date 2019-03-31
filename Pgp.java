@@ -7,7 +7,7 @@ package pgp;
 
 /**
  *
- * @author emmanuel
+ * @author victor
  */
 import java.io.ByteArrayOutputStream;
 import java.security.*;
