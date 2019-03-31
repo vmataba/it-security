@@ -9,7 +9,7 @@ import java.security.MessageDigest;
 
 /**
  *
- * @author emmanuel
+ * @author victor
  */
 public class Tools {
 
