@@ -12,7 +12,7 @@ import javax.crypto.Cipher;
 
 /**
  *
- * @author emmanuel
+ * @author victor
  */
 public class Bob {
 
